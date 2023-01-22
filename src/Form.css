@@ -1,0 +1,41 @@
+form{
+    background-color:rgb(1,1,1,0.5) ;
+    border: none;
+    border-radius: 10px;
+    margin: 200px;
+    padding: 40px;
+    
+}
+#info {
+padding: 10px;
+border: none;
+border-radius: 20px;
+margin-left:10px 0 20px 0;
+width: 100%;
+}
+#formL{
+margin-top:20px ;}
+#text{
+    font-size: 0.6em; 
+    color:lightsteelblue;
+}
+#check{
+    font-size:0.69em;
+    display: flex;
+justify-content: space-between;
+margin:15px 0 25px 10px;}
+#chekF{
+    border: none;
+border-radius: 20px;
+}
+
+#Button{
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color:dodgerblue;
+    font-size:  0.6em;
+    font-weight: 600;
+    margin-left: 35%;
+    color: aliceblue;
+}
